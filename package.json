@@ -1,0 +1,7 @@
+{
+  "name": "webauthn-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^3.7.2"
+  }
+}
